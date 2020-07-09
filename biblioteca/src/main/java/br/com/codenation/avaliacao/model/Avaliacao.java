@@ -1,4 +1,4 @@
-package br.codenation.biblioteca.avaliacao.model;
+package br.com.codenation.avaliacao.model;
 
 import javax.persistence.EmbeddedId;
 import javax.persistence.Entity;

@@ -1,4 +1,4 @@
-package br.codenation.biblioteca.livro.model;
+package br.com.codenation.livro.model;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import javax.persistence.Id;
 import javax.persistence.ManyToMany;
 import javax.persistence.OneToMany;
 
-import br.codenation.biblioteca.avaliacao.model.Avaliacao;
-import br.codenation.biblioteca.categoria.model.Categoria;
+import br.com.codenation.avaliacao.model.Avaliacao;
+import br.com.codenation.categoria.model.Categoria;
 
 @Entity
 public class Livro {

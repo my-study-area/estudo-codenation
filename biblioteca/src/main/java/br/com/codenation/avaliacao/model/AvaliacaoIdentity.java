@@ -1,4 +1,4 @@
-package br.codenation.biblioteca.avaliacao.model;
+package br.com.codenation.avaliacao.model;
 
 import java.io.Serializable;
 
@@ -6,8 +6,8 @@ import javax.persistence.Embeddable;
 import javax.persistence.ManyToOne;
 import javax.validation.constraints.NotNull;
 
-import br.codenation.biblioteca.leitor.model.Leitor;
-import br.codenation.biblioteca.livro.model.Livro;
+import br.com.codenation.leitor.model.Leitor;
+import br.com.codenation.livro.model.Livro;
 
 @Embeddable
 public class AvaliacaoIdentity implements Serializable {

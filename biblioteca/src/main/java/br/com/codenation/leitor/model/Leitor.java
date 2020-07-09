@@ -1,4 +1,4 @@
-package br.codenation.biblioteca.categoria.model;
+package br.com.codenation.leitor.model;
 
 import java.util.List;
 
@@ -7,20 +7,21 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
+import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
-import br.codenation.biblioteca.livro.model.Livro;
+import br.com.codenation.avaliacao.model.Avaliacao;
 
 @Entity
-public class Categoria {
+public class Leitor {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     private Long id;
     
     @NotNull
+    @NotBlank
     private String nome;
     
     @OneToMany
-    private List<Livro> livros;
-
+    private List<Avaliacao> avaliacoes;
 }

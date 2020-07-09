@@ -2,7 +2,7 @@
 
 ## Quarto Módulo
 - Spring Boot
-	- [Projeto Biblioteca](./Biblioteca)
+	- [Projeto Biblioteca](./biblioteca)
 
 - Modelagem SQL
 ```sql

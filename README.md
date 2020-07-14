@@ -48,3 +48,97 @@ CREATE TABLE disciplina_aluno
 	PRIMARY KEY (idAluno, idDisciplina)
 );
 ```
+
+## Quinto Módulo
+- SQL
+```sql
+-- adiciona sequence
+CREATE SEQUENCE professor_id_seq;
+CREATE SEQUENCE aluno_id_seq;
+CREATE SEQUENCE disciplina_id_seq;
+
+ALTER TABLE professor
+ALTER id set default nextval('professor_id_seq');
+
+ALTER TABLE aluno
+ALTER id set default nextval('aluno_id_seq');
+
+ALTER TABLE disciplina
+ALTER id set default nextval('disciplina_id_seq');
+
+-- adiciona professores
+INSERT INTO professor 
+	(cpf, login, nome)
+VALUES
+	('123.456.789-00', 'loginprof1', 'Professor Banco de Dados')
+
+INSERT INTO professor 
+	(cpf, login, nome)
+VALUES
+	('222.222.222-22', 'loginprof2', 'Professor Lógica');
+
+-- adiciona colunas em aluno
+ALTER TABLE aluno
+ADD column cpf varchar(14) unique;
+
+ALTER TABLE aluno
+ADD column login varchar(100);
+
+ALTER TABLE aluno
+ADD column nome varchar(255);
+
+ALTER TABLE aluno
+ADD column numeromatricula integer;
+
+-- adiciona aluno
+INSERT INTO aluno
+	(cpf, login, nome)
+VALUES
+	('111.111.111-11', 'LOGINALUNO1', 'Adriano');
+
+-- atualiza aluno
+UPDATE aluno
+SET numeromatricula = 222
+WHERE id = 2;
+
+UPDATE aluno
+SET numeromatricula = 111
+WHERE id = 1;
+
+-- adiciona discipĺina
+INSERT INTO disciplina
+	(descricao, nome, idprofessor)
+VALUES
+	('Disciplina de Matemática Intro', 'Matemática', 2);
+
+INSERT INTO disciplina
+	(descricao, nome, idprofessor)
+VALUES
+	('Disciplina de Literatura', 'Literatura', 3);
+
+-- adiciona discipĺina_aluno
+INSERT INTO disciplina_aluno
+VALUES
+(1, 3),
+(1, 4),
+(2, 3);
+
+-- Inner Join
+SELECT a.id, a.nome, d.nome 
+FROM aluno a  
+INNER JOIN disciplina_aluno da
+ON a.id = da.idaluno
+INNER JOIN disciplina d
+ON d.id = da.iddisciplina;
+
+SELECT iddisciplina, COUNT(iddisciplina)
+FROM disciplina_aluno  
+GROUP BY iddisciplina;
+
+SELECT id, nome, COUNT(iddisciplina)
+FROM disciplina_aluno da
+INNER JOIN  disciplina d
+ON d.id = da.iddisciplina
+GROUP BY nome, id
+ORDER BY id DESC;
+```

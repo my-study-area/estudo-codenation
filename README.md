@@ -143,6 +143,16 @@ GROUP BY nome, id
 ORDER BY id DESC;
 ```
 ## Sexto Módulo
+
+### Tópicos desse  módulo
+- Cração de API		
+	- GET, POST, PUT, DELETE
+	- Status code (20x, 40x, 50x)
+	- Paginação
+	- Bean Validation
+
+### Links
+
 - [All You Need To Know About Bean Validation With Spring Boot](https://reflectoring.io/bean-validation-with-spring-boot/)
 - [Validation in Spring Boot](https://www.baeldung.com/spring-boot-bean-validation)
 - [Using @ResponseStatus to Set HTTP Status Code](https://www.baeldung.com/spring-response-status)

@@ -142,3 +142,11 @@ ON d.id = da.iddisciplina
 GROUP BY nome, id
 ORDER BY id DESC;
 ```
+## Sexto Módulo
+- [All You Need To Know About Bean Validation With Spring Boot](https://reflectoring.io/bean-validation-with-spring-boot/)
+- [Validation in Spring Boot](https://www.baeldung.com/spring-boot-bean-validation)
+- [Using @ResponseStatus to Set HTTP Status Code](https://www.baeldung.com/spring-response-status)
+- [Error Handling for REST with Spring](https://www.baeldung.com/exception-handling-for-rest-with-spring)
+- [HTTP response status codes](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
+- [REST: Princípios e boas práticas](http://blog.caelum.com.br/rest-principios-e-boas-praticas/)
+

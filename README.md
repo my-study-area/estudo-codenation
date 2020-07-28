@@ -160,3 +160,18 @@ ORDER BY id DESC;
 - [HTTP response status codes](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 - [REST: Princípios e boas práticas](http://blog.caelum.com.br/rest-principios-e-boas-praticas/)
 
+## Sétimo Módulo
+Documentação e Segurança de API REST
+
+### Tópicos desse  módulo
+- Swagger com SpringFox
+- Spring Security com Oauth2
+
+### Links
+- [Spring Security e o protocolo OAuth2 na sua API RESTful](https://www.youtube.com/watch?v=UsM2BY20Ux4)
+- [Uma introdução ao OAuth 2](https://www.digitalocean.com/community/tutorials/uma-introducao-ao-oauth-2-pt)
+- [Autenticação com Spring e OAuth2](https://academiadev.gitbook.io/joinville/seguranca/oauth2)
+- [Modelando APIs REST com Swagger](https://blog.caelum.com.br/modelando-apis-rest-com-swagger/)
+- [Swagger Documentation](https://swagger.io/docs/)
+- [SpringFox](https://springfox.github.io/springfox/)
+- [O que é Spring Security?](https://blog.algaworks.com/spring-security/)

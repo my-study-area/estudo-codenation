@@ -175,3 +175,20 @@ Documentação e Segurança de API REST
 - [Swagger Documentation](https://swagger.io/docs/)
 - [SpringFox](https://springfox.github.io/springfox/)
 - [O que é Spring Security?](https://blog.algaworks.com/spring-security/)
+
+## Oitavo Módulo
+
+### Tópicos desse  módulo
+- Clean code
+- S.O.L.I.D.
+- TDD - Test Driven Development
+
+### Links
+- [Princípios do Código Sólido na orientação a objetos](https://blog.caelum.com.br/principios-do-codigo-solido-na-orientacao-a-objetos/)
+- [Princípios S.O.L.I.D: o que são e porque projetos devem utilizá-los](https://medium.com/@mari_azevedo/princ%C3%ADpios-s-o-l-i-d-o-que-s%C3%A3o-e-porque-projetos-devem-utiliz%C3%A1-los-bf496b82b299)
+- [Clean Code: aprenda a manter o seu código limpo!](https://becode.com.br/clean-code/)
+- [Boas práticas técnica para um código limpo (Clean Code)](https://pt.slideshare.net/rodrigokono/boas-prticas-tcnica-para-um-cdigo-limpo-clean-code)
+- [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
+- [Test Driven Development: TDD Simples e Prático](https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533)
+- [Garantia da qualidade de software com TDD (Test Driven Development)](https://knowledge21.com.br/blog/qualidade-de-software-com-tdd-test-driven-development/)
+- [Introdução ao desenvolvimento guiado por teste (TDD) com JUnit](https://www.devmedia.com.br/introducao-ao-desenvolvimento-guiado-por-teste-tdd-com-junit/26559)

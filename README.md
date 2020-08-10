@@ -203,3 +203,17 @@ Documentação e Segurança de API REST
 - [Test Driven Development: TDD Simples e Prático](https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533)
 - [Garantia da qualidade de software com TDD (Test Driven Development)](https://knowledge21.com.br/blog/qualidade-de-software-com-tdd-test-driven-development/)
 - [Introdução ao desenvolvimento guiado por teste (TDD) com JUnit](https://www.devmedia.com.br/introducao-ao-desenvolvimento-guiado-por-teste-tdd-com-junit/26559)
+
+## Novo Módulo
+
+### Tópicos desse  módulo
+- Build de aplicações Java
+- Deploy de aplicações
+- Introdução ao Devops e conceitos de CI/CD
+
+### Links
+- [O que é DevOps?](https://www.redhat.com/pt-br/topics/devops)
+- [O que é CI/CD?](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
+- [Heroku Cloud Application Platform](https://www.heroku.com/)
+- [Welcome to Apache Maven](https://maven.apache.org/)
+- [Processo de build com o Maven](http://blog.caelum.com.br/processo-de-build-com-o-maven/)

@@ -11,6 +11,17 @@
     </a>
 </p>
 
+## Terceiro Módulo
+
+### Links
+- [Entendendo interfaces em Java](https://www.devmedia.com.br/entendendo-interfaces-em-java/25502)
+- [Java Interface: Aprenda a usar corretamente](https://www.devmedia.com.br/java-interface-aprenda-a-usar-corretamente/28798)
+- [Polimorfismo, Classes abstratas e Interfaces: Fundamentos da POO em Java](https://www.devmedia.com.br/polimorfismo-classes-abstratas-e-interfaces-fundamentos-da-poo-em-java/26387)
+- [Conceitos – Classes Abstratas: Programação Orientada a Objetos](https://www.devmedia.com.br/conceitos-classes-abstratas-programacao-orientada-a-objetos/18812)
+- [Conhecendo Java Reflection](https://www.devmedia.com.br/conhecendo-java-reflection/29148)
+- [Entendendo Anotações em Java](https://www.devmedia.com.br/entendendo-anotacoes-em-java/26772)
+- [Java Reflection – Parte I](https://www.devmedia.com.br/java-reflection-parte-i/4888)
+
 ## Quarto Módulo
 - Spring Boot
 	- [Projeto Biblioteca](./biblioteca)

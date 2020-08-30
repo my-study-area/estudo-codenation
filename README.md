@@ -11,6 +11,22 @@
     </a>
 </p>
 
+## Segundo Módulo - Programação a Objetos I
+
+### Tópicos desse  módulo
+- Classes
+- Objetos
+- Encapsulamento
+- Exceções
+- Herança
+
+### Links
+- [FP vs. OO](https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html)
+- [Programação Orientada a Objetos com Java](https://www.devmedia.com.br/programacao-orientada-a-objetos-com-java/18449)
+- [Encapsulamento, Polimorfismo, Herança em Java](https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991)
+- [Java Exceptions](https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601)
+- [Entendendo e Aplicando Herança em Java](https://www.devmedia.com.br/entendendo-e-aplicando-heranca-em-java/24544)
+
 ## Terceiro Módulo
 
 ### Links

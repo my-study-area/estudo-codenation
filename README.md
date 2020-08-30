@@ -11,6 +11,8 @@
     </a>
 </p>
 
+## Primeiro Módulo - Introdução a Linguagem Java
+
 ## Segundo Módulo - Programação a Objetos I
 
 ### Tópicos desse  módulo
@@ -27,7 +29,7 @@
 - [Java Exceptions](https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601)
 - [Entendendo e Aplicando Herança em Java](https://www.devmedia.com.br/entendendo-e-aplicando-heranca-em-java/24544)
 
-## Terceiro Módulo
+## Terceiro Módulo - Programação a Objetos II
 
 ### Links
 - [Entendendo interfaces em Java](https://www.devmedia.com.br/entendendo-interfaces-em-java/25502)
@@ -38,7 +40,7 @@
 - [Entendendo Anotações em Java](https://www.devmedia.com.br/entendendo-anotacoes-em-java/26772)
 - [Java Reflection – Parte I](https://www.devmedia.com.br/java-reflection-parte-i/4888)
 
-## Quarto Módulo
+## Quarto Módulo - MOdelagem de Banco de Dados Relacional
 - Spring Boot
 	- [Projeto Biblioteca](./biblioteca)
 
@@ -87,7 +89,7 @@ CREATE TABLE disciplina_aluno
 );
 ```
 
-## Quinto Módulo
+## Quinto Módulo - Manipulaçao de Banco de Dados Relacional
 - SQL
 ```sql
 -- adiciona sequence
@@ -180,7 +182,7 @@ ON d.id = da.iddisciplina
 GROUP BY nome, id
 ORDER BY id DESC;
 ```
-## Sexto Módulo
+## Sexto Módulo - Cração de API REST
 
 ### Tópicos desse  módulo
 - Cração de API		
@@ -198,7 +200,7 @@ ORDER BY id DESC;
 - [HTTP response status codes](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 - [REST: Princípios e boas práticas](http://blog.caelum.com.br/rest-principios-e-boas-praticas/)
 
-## Sétimo Módulo
+## Sétimo Módulo - Documetação de API REST
 Documentação e Segurança de API REST
 
 ### Tópicos desse  módulo
@@ -214,7 +216,7 @@ Documentação e Segurança de API REST
 - [SpringFox](https://springfox.github.io/springfox/)
 - [O que é Spring Security?](https://blog.algaworks.com/spring-security/)
 
-## Oitavo Módulo
+## Oitavo Módulo - Git, boas práticas e Clean Code
 
 ### Tópicos desse  módulo
 - Clean code
@@ -231,7 +233,7 @@ Documentação e Segurança de API REST
 - [Garantia da qualidade de software com TDD (Test Driven Development)](https://knowledge21.com.br/blog/qualidade-de-software-com-tdd-test-driven-development/)
 - [Introdução ao desenvolvimento guiado por teste (TDD) com JUnit](https://www.devmedia.com.br/introducao-ao-desenvolvimento-guiado-por-teste-tdd-com-junit/26559)
 
-## Novo Módulo
+## Novo Módulo - Deply de Aplicações
 
 ### Tópicos desse  módulo
 - Build de aplicações Java

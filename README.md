@@ -13,6 +13,35 @@
 
 ## Primeiro Módulo - Introdução a Linguagem Java
 
+### Tópicos desse  módulo
+- Pacotes e classes
+- Operadores Aritméticos
+- Veriáveis e métodos
+	- Tipos Primitivos
+	- Objetos
+	- Construtores
+	- Modificadores de Acesso
+- Arrays e ArrayLists
+- Controles de Fluxos
+	- Estruturas Condicionais e de Repetição
+	- Operadores Lógicos
+
+### Links
+- [Java - Tipos primitivos](http://www.universidadejava.com.br/materiais/java-tipos-primitivos/)
+- [Explicando os tipos de métodos existentes na programação OO](https://www.devmedia.com.br/metodos/7348)
+- [Controle de Fluxo - Parte I](https://www.devmedia.com.br/controle-de-fluxo-parte-l/5527)
+- [Controle de Fluxo Parte II](https://www.devmedia.com.br/controle-de-fluxo-parte-ll/5722)
+- [Operadores lógicos e matemáticos da linguagem Java](https://www.devmedia.com.br/operadores-logicos-e-matematicos-da-linguagem-java/25248)
+- [Arraylist Java: Explorando a classe ArrayList no Java](https://www.devmedia.com.br/explorando-a-classe-arraylist-no-java/24298)
+- [Gradle | Installation](https://gradle.org/install/)
+- [Trabalhando com string: String em Java](https://www.devmedia.com.br/trabalhando-com-string-string-em-java/21737)
+- [Tipos de dados por valor e por referência em Java](https://www.devmedia.com.br/tipos-de-dados-por-valor-e-por-referencia-em-java/25293)
+
+### Desafios
+- Fibonacci
+- Criptografia de Júlio César
+- Calculadora de Salário Líquido
+
 ## Segundo Módulo - Programação a Objetos I
 
 ### Tópicos desse  módulo

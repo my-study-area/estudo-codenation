@@ -75,7 +75,22 @@
 - [Entendendo Anotações em Java](https://www.devmedia.com.br/entendendo-anotacoes-em-java/26772)
 - [Java Reflection – Parte I](https://www.devmedia.com.br/java-reflection-parte-i/4888)
 
-## Quarto Módulo - MOdelagem de Banco de Dados Relacional
+## Quarto Módulo - Modelagem de Banco de Dados Relacional
+
+### Tópicos desse  módulo
+- Criação de banco de dados
+- Modelagem de banco de dados
+- JPA e Hibernate
+
+### Links
+- [pgAdmin - PostgreSQL Tools for Windows, Mac, Linux and the Web](https://www.pgadmin.org/download/)
+- [Como Instalar e Utilizar o PostgreSQL no Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/como-instalar-e-utilizar-o-postgresql-no-ubuntu-16-04-pt)
+- [Instalando Postgresql](https://www.devmedia.com.br/instalando-postgresql/23364)
+- [Learn PostgreSQL from Scratch](https://www.postgresqltutorial.com/)
+- [Guia Completo de Hibernate: Aprenda Hibernate do Básico ao Avançado](https://www.devmedia.com.br/guia/hibernate/38312)
+- [Spring Boot](https://www.codenation.dev/private-journey/java-online-4/challenge/spring-boot)
+
+### Outros:
 - Spring Boot
 	- [Projeto Biblioteca](./biblioteca)
 

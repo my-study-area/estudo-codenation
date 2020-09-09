@@ -60,6 +60,12 @@
 
 ## Terceiro Módulo - Programação a Objetos II
 
+### Tópicos desse  módulo
+- Interfaces
+- Classes Abstratas
+- java Reflection
+- Annotations
+
 ### Links
 - [Entendendo interfaces em Java](https://www.devmedia.com.br/entendendo-interfaces-em-java/25502)
 - [Java Interface: Aprenda a usar corretamente](https://www.devmedia.com.br/java-interface-aprenda-a-usar-corretamente/28798)

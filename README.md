@@ -58,6 +58,12 @@
 - [Java Exceptions](https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601)
 - [Entendendo e Aplicando Herança em Java](https://www.devmedia.com.br/entendendo-e-aplicando-heranca-em-java/24544)
 
+
+### Desafios
+- [Gerenciador de Times de Futebol](https://github.com/my-study-area/desafio-aceleradev-java-gerenciador-times-futebol)
+- [Controle de estacionamento](https://github.com/my-study-area/desafio-aceleradev-java-controle-estacionamento)
+- [Media, Moda e Mediana](https://github.com/my-study-area/desafio-aceleradev-java-media-moda-mediana)
+
 ## Terceiro Módulo - Programação a Objetos II
 
 ### Tópicos desse  módulo

@@ -140,6 +140,23 @@ CREATE TABLE disciplina_aluno
 ```
 
 ## Quinto Módulo - Manipulaçao de Banco de Dados Relacional
+
+### Tópicos desse  módulo
+- SQL (INSERT, SELECT, UPDATE, DELETE)
+- Maninpulação de Dados com Hibernate
+- Manipulação de Dados Spring Boot/Data
+
+### Links
+- [Spring Data Annotations](https://www.baeldung.com/spring-data-annotations)
+- [Spring Data JPA - Reference Documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
+- [Database auditing JPA](https://www.baeldung.com/database-auditing-jpa)
+- [Spring data JPA Query](https://www.baeldung.com/spring-data-jpa-query)
+- [Introduction to Query Methods](https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-introduction-to-query-methods/)
+- [Spring Data Annotations](https://www.baeldung.com/spring-data-annotations)
+- [Database auditing JPA](https://www.baeldung.com/database-auditing-jpa)
+- [Spring data JPA Query](https://www.baeldung.com/spring-data-jpa-query)
+
+### Outros:
 - SQL
 ```sql
 -- adiciona sequence

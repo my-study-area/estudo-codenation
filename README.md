@@ -38,9 +38,9 @@
 - [Tipos de dados por valor e por referência em Java](https://www.devmedia.com.br/tipos-de-dados-por-valor-e-por-referencia-em-java/25293)
 
 ### Desafios
-- Fibonacci
-- Criptografia de Júlio César
-- Calculadora de Salário Líquido
+- [Fibonacci](https://github.com/my-study-area/desafio-aceleradev-java-fibonacci)
+- [Criptografia de Júlio César](https://github.com/my-study-area/desafio-aceleradev-java-criptografia)
+- [Calculadora de Salário Líquido](https://github.com/my-study-area/desafio-aceleradev-java-calculadora-salario)
 
 ## Segundo Módulo - Programação a Objetos I
 

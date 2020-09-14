@@ -81,6 +81,10 @@
 - [Entendendo Anotações em Java](https://www.devmedia.com.br/entendendo-anotacoes-em-java/26772)
 - [Java Reflection – Parte I](https://www.devmedia.com.br/java-reflection-parte-i/4888)
 
+### Desafio
+- [Utilitário - Calculador de atributos de Classe](https://github.com/aceleradev-java/desafio-aceleradev-java-calculadora-atributos)
+
+
 ## Quarto Módulo - Modelagem de Banco de Dados Relacional
 
 ### Tópicos desse  módulo

@@ -261,6 +261,11 @@ ON d.id = da.iddisciplina
 GROUP BY nome, id
 ORDER BY id DESC;
 ```
+
+### Desafio
+- [Criando e manipulando entidades no Banco de dados com Spring](https://github.com/aceleradev-java/desafio-aceleradev-java-manipulacao-dados-spring)
+- [Order Service](https://github.com/aceleradev-java/desafio-aceleradev-java-order-service)
+
 ## Sexto Módulo - Cração de API REST
 
 ### Tópicos desse  módulo

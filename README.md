@@ -148,6 +148,8 @@ CREATE TABLE disciplina_aluno
 	PRIMARY KEY (idAluno, idDisciplina)
 );
 ```
+### Desafio
+- [Criando Entidades de Banco de Dados em Java](https://github.com/aceleradev-java/desafio-aceleradev-java-criando-entidade-banco-dados)
 
 ## Quinto Módulo - Manipulaçao de Banco de Dados Relacional
 

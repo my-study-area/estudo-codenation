@@ -284,6 +284,10 @@ ORDER BY id DESC;
 - [HTTP response status codes](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 - [REST: Princípios e boas práticas](http://blog.caelum.com.br/rest-principios-e-boas-praticas/)
 
+### Desafios
+- [Criando endpoints com Spring](https://github.com/aceleradev-java/desafio-aceleradev-java-spring-web)
+- [Gerador de frases do Monty Python utilizando Spring Boot e JPA](https://github.com/aceleradev-java/desafio-aceleradev-java-gerador-frases)
+
 ## Sétimo Módulo - Documetação de API REST
 Documentação e Segurança de API REST
 

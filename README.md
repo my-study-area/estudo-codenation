@@ -324,6 +324,9 @@ Documentação e Segurança de API REST
 - [Garantia da qualidade de software com TDD (Test Driven Development)](https://knowledge21.com.br/blog/qualidade-de-software-com-tdd-test-driven-development/)
 - [Introdução ao desenvolvimento guiado por teste (TDD) com JUnit](https://www.devmedia.com.br/introducao-ao-desenvolvimento-guiado-por-teste-tdd-com-junit/26559)
 
+### Desafio
+- [Refatorando Formas de Pagamento](https://github.com/aceleradev-java/desafio-aceleradev-java-refatorando-formas-pagamento)
+
 ## Novo Módulo - Deply de Aplicações
 
 ### Tópicos desse  módulo

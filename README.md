@@ -304,6 +304,9 @@ Documentação e Segurança de API REST
 - [SpringFox](https://springfox.github.io/springfox/)
 - [O que é Spring Security?](https://blog.algaworks.com/spring-security/)
 
+### Desafios
+- [Oauth2 com Spring](https://github.com/aceleradev-java/desafio-aceleradev-java-oauth2-spring)
+
 ## Oitavo Módulo - Git, boas práticas e Clean Code
 
 ### Tópicos desse  módulo

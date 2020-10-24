@@ -340,3 +340,6 @@ Documentação e Segurança de API REST
 - [Heroku Cloud Application Platform](https://www.heroku.com/)
 - [Welcome to Apache Maven](https://maven.apache.org/)
 - [Processo de build com o Maven](http://blog.caelum.com.br/processo-de-build-com-o-maven/)
+
+## Desafio Final
+Desenvolver uma API Rest para centralizar os registros de erros dos ambientes mobile, frontend, backend e desktop. Mais informações podem ser obtidas no [Projeto Final](https://github.com/aceleradev-java/central-errors).
